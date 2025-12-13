@@ -1,3 +1,2 @@
-# louisjeon
-### Software Engineer with interest in React, Python, GenAI, LLM, etc.
+# SWE interested in React, Python, ML, LLM
 ![screenshot](x.png "screenshot")
