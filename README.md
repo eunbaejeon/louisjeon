@@ -2,4 +2,4 @@
 - #### Inner workings of transformers
 - #### Recent improvements in LLM architectures
 - #### Efficient training at scale
-- #### Reinforcement learning
+- #### Variations of reinforcement learning
