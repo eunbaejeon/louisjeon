@@ -3,4 +3,4 @@
 - Recent improvements in LLM architectures
 - Efficient training at scale
 - Reinforcement learning
-- AI Agents
+- Advancements in AI Agents
