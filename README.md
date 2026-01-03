@@ -9,3 +9,4 @@
 - #### Anthropic’s Interpretability Research (https://transformer-circuits.pub/)
 - #### Top AI Papers of the Week (https://www.linkedin.com/newsletters/top-ai-papers-of-the-week-7020865424875474944/)
 - #### PyTorch Recipes (https://docs.pytorch.org/tutorials/recipes_index.html)
+- #### Arxiv - Computation and Language (https://arxiv.org/list/cs.CL/recent)
