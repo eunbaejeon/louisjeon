@@ -1,4 +1,4 @@
-# NLP researcher with interest in recent NLP advances and technologies.
+# Hi! I'm an NLP researcher with interest in recent NLP advances and technologies.
 - Agentic AI
 - Improving transformer architecture
 - Efficient training at scale
